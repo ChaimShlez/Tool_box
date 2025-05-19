@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552721F5-DFA3-425C-A021-106681B5A6E6}|toolBox\\toolBox.csproj|d:\\users\\user\\devlopment\\kodecode\\homeworks\\oop\\toolbox\\toolbox\\wrench.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552721F5-DFA3-425C-A021-106681B5A6E6}|toolBox\\toolBox.csproj|solutionrelative:toolbox\\wrench.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552721F5-DFA3-425C-A021-106681B5A6E6}|toolBox\\toolBox.csproj|d:\\users\\user\\devlopment\\kodecode\\homeworks\\oop\\toolbox\\toolbox\\wirestripper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552721F5-DFA3-425C-A021-106681B5A6E6}|toolBox\\toolBox.csproj|solutionrelative:toolbox\\wirestripper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552721F5-DFA3-425C-A021-106681B5A6E6}|toolBox\\toolBox.csproj|d:\\users\\user\\devlopment\\kodecode\\homeworks\\oop\\toolbox\\toolbox\\toolbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552721F5-DFA3-425C-A021-106681B5A6E6}|toolBox\\toolBox.csproj|solutionrelative:toolbox\\toolbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552721F5-DFA3-425C-A021-106681B5A6E6}|toolBox\\toolBox.csproj|d:\\users\\user\\devlopment\\kodecode\\homeworks\\oop\\toolbox\\toolbox\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552721F5-DFA3-425C-A021-106681B5A6E6}|toolBox\\toolBox.csproj|solutionrelative:toolbox\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552721F5-DFA3-425C-A021-106681B5A6E6}|toolBox\\toolBox.csproj|d:\\users\\user\\devlopment\\kodecode\\homeworks\\oop\\toolbox\\toolbox\\screwdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552721F5-DFA3-425C-A021-106681B5A6E6}|toolBox\\toolBox.csproj|solutionrelative:toolbox\\screwdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552721F5-DFA3-425C-A021-106681B5A6E6}|toolBox\\toolBox.csproj|d:\\users\\user\\devlopment\\kodecode\\homeworks\\oop\\toolbox\\toolbox\\saw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552721F5-DFA3-425C-A021-106681B5A6E6}|toolBox\\toolBox.csproj|solutionrelative:toolbox\\saw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552721F5-DFA3-425C-A021-106681B5A6E6}|toolBox\\toolBox.csproj|d:\\users\\user\\devlopment\\kodecode\\homeworks\\oop\\toolbox\\toolbox\\pipcutter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552721F5-DFA3-425C-A021-106681B5A6E6}|toolBox\\toolBox.csproj|solutionrelative:toolbox\\pipcutter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552721F5-DFA3-425C-A021-106681B5A6E6}|toolBox\\toolBox.csproj|d:\\users\\user\\devlopment\\kodecode\\homeworks\\oop\\toolbox\\toolbox\\hammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552721F5-DFA3-425C-A021-106681B5A6E6}|toolBox\\toolBox.csproj|solutionrelative:toolbox\\hammer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552721F5-DFA3-425C-A021-106681B5A6E6}|toolBox\\toolBox.csproj|d:\\users\\user\\devlopment\\kodecode\\homeworks\\oop\\toolbox\\toolbox\\drill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552721F5-DFA3-425C-A021-106681B5A6E6}|toolBox\\toolBox.csproj|solutionrelative:toolbox\\drill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{552721F5-DFA3-425C-A021-106681B5A6E6}|toolBox\\toolBox.csproj|d:\\users\\user\\devlopment\\kodecode\\homeworks\\oop\\toolbox\\toolbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552721F5-DFA3-425C-A021-106681B5A6E6}|toolBox\\toolBox.csproj|solutionrelative:toolbox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-19T13:07:12.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Wrench.cs",
+              "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\toolBox\\Wrench.cs",
+              "RelativeDocumentMoniker": "toolBox\\Wrench.cs",
+              "ToolTip": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\toolBox\\Wrench.cs",
+              "RelativeToolTip": "toolBox\\Wrench.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:06:27.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WireStripper.cs",
+              "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\toolBox\\WireStripper.cs",
+              "RelativeDocumentMoniker": "toolBox\\WireStripper.cs",
+              "ToolTip": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\toolBox\\WireStripper.cs",
+              "RelativeToolTip": "toolBox\\WireStripper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:05:49.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToolBox.cs",
+              "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\toolBox\\ToolBox.cs",
+              "RelativeDocumentMoniker": "toolBox\\ToolBox.cs",
+              "ToolTip": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\toolBox\\ToolBox.cs",
+              "RelativeToolTip": "toolBox\\ToolBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:05:07.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tool.cs",
+              "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\toolBox\\Tool.cs",
+              "RelativeDocumentMoniker": "toolBox\\Tool.cs",
+              "ToolTip": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\toolBox\\Tool.cs",
+              "RelativeToolTip": "toolBox\\Tool.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:04:27.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Screwdriver.cs",
+              "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\toolBox\\Screwdriver.cs",
+              "RelativeDocumentMoniker": "toolBox\\Screwdriver.cs",
+              "ToolTip": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\toolBox\\Screwdriver.cs",
+              "RelativeToolTip": "toolBox\\Screwdriver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:04:00.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Saw.cs",
+              "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\toolBox\\Saw.cs",
+              "RelativeDocumentMoniker": "toolBox\\Saw.cs",
+              "ToolTip": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\toolBox\\Saw.cs",
+              "RelativeToolTip": "toolBox\\Saw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:03:22.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PipCutter.cs",
+              "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\toolBox\\PipCutter.cs",
+              "RelativeDocumentMoniker": "toolBox\\PipCutter.cs",
+              "ToolTip": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\toolBox\\PipCutter.cs",
+              "RelativeToolTip": "toolBox\\PipCutter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:02:38.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hammer.cs",
+              "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\toolBox\\Hammer.cs",
+              "RelativeDocumentMoniker": "toolBox\\Hammer.cs",
+              "ToolTip": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\toolBox\\Hammer.cs",
+              "RelativeToolTip": "toolBox\\Hammer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:02:02.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Drill.cs",
+              "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\toolBox\\Drill.cs",
+              "RelativeDocumentMoniker": "toolBox\\Drill.cs",
+              "ToolTip": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\toolBox\\Drill.cs",
+              "RelativeToolTip": "toolBox\\Drill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T13:01:18.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\toolBox\\Program.cs",
+              "RelativeDocumentMoniker": "toolBox\\Program.cs",
+              "ToolTip": "D:\\Users\\User\\devlopment\\Kodecode\\homeWorks\\oop\\toolBox\\toolBox\\Program.cs",
+              "RelativeToolTip": "toolBox\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T12:58:56.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
